@@ -5,9 +5,7 @@ import (
 	"os"
 )
 
-/**
-*
- */
+// hello world
 func main() {
 	fmt.Println(os.Args)
 	fmt.Println("hello world")
